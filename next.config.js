@@ -12,6 +12,7 @@ const nextConfig = {
   reactStrictMode: true,
   swcMinify: true,
   transpilePackages: ['tailwind-config', 'ui'],
+  output: 'standalone',
 };
 
 module.exports = nextConfig;
