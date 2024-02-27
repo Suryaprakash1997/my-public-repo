@@ -1,3 +1,3 @@
-@Library('shared-jenkins') _
+@Library('shared-jenkins@master') _
 
 commonjenkins()
